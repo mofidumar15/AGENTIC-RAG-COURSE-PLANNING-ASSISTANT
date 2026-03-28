@@ -1,0 +1,38 @@
+🎓 Ask your course planning question (or type 'exit'): can i take CS101
+/usr/local/lib/python3.12/dist-packages/transformers/generation/configuration_utils.py:515: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+
+============================
+📌 QUESTION:
+can i take CS101
+
+✅ ANSWER:
+No
+
+📚 SOURCES:
+- https://catalog.colostate.edu/general-catalog/courses-az/cs/?utm_source=chatgpt.com
+- https://catalog.colostate.edu/general-catalog/courses-az/cs/?utm_source=chatgpt.com
+- https://catalog.colostate.edu/general-catalog/courses-az/cs/?utm_source=chatgpt.com
+- https://catalog.colostate.edu/general-catalog/courses-az/cs/?utm_source=chatgpt.com
+- https://catalog.colostate.edu/general-catalog/courses-az/cs/?utm_source=chatgpt.com
+
+🎓 Ask your course planning question (or type 'exit'): Who is the professor for Database Systems
+/usr/local/lib/python3.12/dist-packages/transformers/generation/configuration_utils.py:515: UserWarning: `do_sample` is set to `False`. However, `temperature` is set to `0` -- this flag is only used in sample-based generation modes. You should set `do_sample=True` or unset `temperature`.
+  warnings.warn(
+
+============================
+📌 QUESTION:
+Who is the professor for Database Systems
+
+✅ ANSWER:
+C S 386D
+
+📚 SOURCES:
+- https://catalog.utexas.edu/general-information/coursesatoz/c-s/?utm_source=chatgpt.com
+- https://catalog.utexas.edu/general-information/coursesatoz/c-s/?utm_source=chatgpt.com
+- https://catalog.ucsd.edu/courses/CSE.html?utm_source=chatgpt.com
+- https://catalog.ucsd.edu/courses/CSE.html?utm_source=chatgpt.com
+- https://catalog.utexas.edu/general-information/coursesatoz/c-s/?utm_source=chatgpt.com
+
+🎓 Ask your course planning question (or type 'exit'): EXIT
+👋 Exiting system...
