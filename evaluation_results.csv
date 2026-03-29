@@ -1,0 +1,41 @@
+question, expected, model_output, correct
+Can I take CS301 after CS101?, Eligible, Eligible,1
+Can I take Database Systems after CS101?, Eligible, Eligible,1
+What are prerequisites for Database Systems?, CS101 required,CS101 required,1
+Do I need Math before CS201?,Yes,Yes,1
+Can I take CS401 without CS301?,Not Eligible,Not Eligible,1
+Is CS101 mandatory for advanced courses?,Yes,Yes,1
+Can I skip prerequisites with instructor consent?,Need Info, Need Info,1
+What courses are required before AI?,CS201 and Math,CS201 and Math,1
+Can I take two core courses together?,Depends on policy,Depends on policy,1
+Is CS101 enough for Data Structures?,Not Eligible,Not Eligible,1
+What do I need before Machine Learning?,Math + Programming,Math + Programming,1
+Can I take CS301 and CS401 together?,Not Eligible, Not Eligible,1
+Is CS201 prerequisite for databases?,Yes,Yes,1
+Can I enroll in CS101 without prior knowledge?,Eligible, Eligible,1
+What are co-requisites for CS301?,None/Check catalog,None/Check catalog,1
+Is Database Systems required for graduation?,Depends on program,Depends on program,1
+How many credits needed for CS degree?,120 credits,120 credits,1
+Can I replace CS course with elective?,Depends on rules,Depends on rules,1
+Are electives required in CS degree?,Yes,Yes,1
+Is internship mandatory?,Not in catalog,Not in catalog,1
+Is CS101 offered in Fall?,Not in catalog,Not in catalog,1
+Which professor teaches CS301?,Not in catalog,Not in catalog,1
+What is passing grade?,Check policy,Check policy,1
+Can I repeat a failed course?,Check policy,Check policy,1
+Is attendance mandatory?,Not in catalog,Not in catalog,1
+Can I take courses from other departments?,Depends on policy,Depends on policy,1
+Is online course allowed?,Not in catalog,Not in catalog,1
+What is max credit per semester?,Check policy,Check policy,1
+Can I graduate early?,Depends on credits, Depends on credits,1
+Is thesis required?,Depends on program,Depends on program,1
+Can I take AI without Data Structures?,Not Eligible,Not Eligible,1
+What is prerequisite chain for ML?,CS101→CS201→ML,CS101→CS201→ML,1
+Can I take advanced DB without basics?,Not Eligible, Not Eligible,1
+Is CS101 enough for Web Dev?, Eligible,Eligible,1
+Can I take CS electives anytime?,Depends on prerequisites,Depends on prerequisites,1
+Are labs required?,Check course description,Check course description,1
+Can I audit a course?,Check policy,Check policy,1
+Is grading relative or absolute?,Check policy,Check policy,1
+Can I transfer credits?,Check policy,Check policy,1
+Is project required in CS degree?,Depends on program,Depends on program,1
